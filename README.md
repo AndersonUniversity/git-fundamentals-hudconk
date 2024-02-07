@@ -1,4 +1,6 @@
 # :wave: The Basics of GitHub 
+## Author: Hudson Conkling
+# Date: 2-7-2024
 
 ## 🤓 Course overview and learning outcomes 
 
